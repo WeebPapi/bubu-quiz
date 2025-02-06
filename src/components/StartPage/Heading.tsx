@@ -13,7 +13,6 @@ const Heading: React.FC<HeadingProps> = ({ text, className }) => {
       <img
         src={bubuImage}
         alt="bubu kitten"
-        className=""
       />
       <Typography variant="h1" fontSize={44} color="pink">
         Hi BUBUBUBUBUU
